@@ -38,6 +38,8 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 7 :
 **Question :** Dans le PDF suivant, il y a un mot qui n'est pas écrit de la même façon que les autres. Quel est ce mot ?
 
+![ex7](https://discord.com/channels/1017834413993758840/1233126790113923132/1239697199538114710)
+
 ### Exo 8 :
 **Question :** Formez une phrase avec les réponses précédentes. Quelle est la réponse ?
 
