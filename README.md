@@ -38,7 +38,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 7 :
 **Question :** Dans le PDF suivant, il y a un mot qui n'est pas écrit de la même façon que les autres. Quel est ce mot ?
 
-![ex7](https://discord.com/channels/1017834413993758840/1233126790113923132/1239697199538114710)
+[ex7]([https://discord.com/channels/1017834413993758840/1233126790113923132/1239697199538114710](https://cdn.discordapp.com/attachments/1233126790113923132/1239697199236120716/L_Histoire_de_Moustache_Longue.pdf?ex=6643dd7c&is=66428bfc&hm=5f213d4570f7ae9f424d89d10a484004291de5c316c5cc188540fd78ba845e12&))
 
 ### Exo 8 :
 **Question :** Formez une phrase avec les réponses précédentes. Quelle est la réponse ?
