@@ -12,7 +12,9 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 
 ### Exo 2 :
 **Question :** Comment s’appelle le bâtiment inauguré en 1982 et dont la construction a débuté il y a 51 ans, situé près du plus grand monument visible sur cette image ?
+
 ![ex2](https://cdn.discordapp.com/attachments/1233126790113923132/1239676378614468750/osintexercise002.png?ex=6643ca18&is=66427898&hm=1bcfeb7d2154ebe68b45dbf19a837c775cdd66aaa205a1d354569785db797b38&)
+
 
 ### Exo 3 :
 **Question :** Sur le site epitech.eu le 5 décembre 2008, un témoignage d'un ancien élève d'Epitech a été publié. Comment s'appelle cet ancien élève ?
