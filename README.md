@@ -49,6 +49,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 <details>
   <summary>Cliquez ici pour un indice</summary>
   CarNET
+  fotoforensics
 </details>
 
 ![exo_bonus](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/1f450024-6722-4684-8a67-58e771bfeba8)
@@ -67,7 +68,10 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 **Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
 
 ![ex12](https://cdn.discordapp.com/attachments/1233126790113923132/1240354447809581107/ex11.png?ex=66464199&is=6644f019&hm=66ceff7d2c00ef0ca561e2010c985231533a6cb8396211f9cc227aa25bc57dc7&)
-
+<details>
+  <summary>Cliquez ici pour un indice</summary>
+  tineye
+</details>
 
 ### Exo 13:
 **Question :** Le 25 novembre 2020, un Twittos a partagé cette photo. Il représentait un avion militaire survolant un lieu dont personne ne connaît la localisation.
