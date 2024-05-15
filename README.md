@@ -43,7 +43,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 8 :
 **Question :** Trouvez l'exo 8. Quelle est la réponse ?
 
-#### Medium ~ Hard
+# Medium ~ Hard
 ### Exo 9 :
 **Question :** Certaines personnes affirment que Boolean est décédé entre 2014 et 2017. Mais je suis sûr qu'il est mort une autre année. Quand ?
 
