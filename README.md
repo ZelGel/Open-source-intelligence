@@ -45,7 +45,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 
 # Medium ~ Hard
 ### Exo 9 :
-**Question :** En 2011, à l'emplacement où cette photo a été prise, se trouvait une voiture de couleur argent avec une plaque d'immatriculation jaune. Quel était le modèle exact, la génération et l'année de production de cette voiture ?
+**Question :** 12 ans avant la prise de cette photo, à l'endroit où elle a été capturée, se trouvait une voiture de couleur argent avec une plaque d'immatriculation jaune. Quel était le modèle exact, la génération, et l'année de production de cette voiture ?
 
 ![exo_bonus](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/1f450024-6722-4684-8a67-58e771bfeba8)
 
