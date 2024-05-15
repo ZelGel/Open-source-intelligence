@@ -41,11 +41,30 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 [le pdf est ici](https://cdn.discordapp.com/attachments/1233126790113923132/1239697199236120716/L_Histoire_de_Moustache_Longue.pdf?ex=6643dd7c&is=66428bfc&hm=5f213d4570f7ae9f424d89d10a484004291de5c316c5cc188540fd78ba845e12&)
 
 ### Exo 8 :
-**Question :** Formez une phrase avec les réponses précédentes. Quelle est la réponse ?
+**Question :** Trouvez l'exo 8. Quelle est la réponse ?
 
+#### Medium ~ Hard
 ### Exo 9 :
 **Question :** Certaines personnes affirment que Boolean est décédé entre 2014 et 2017. Mais je suis sûr qu'il est mort une autre année. Quand ?
 
-
 ![ex6](https://cdn.discordapp.com/attachments/1233126790113923132/1239677895148965899/boolean-300x236.png?ex=6643cb82&is=66427a02&hm=e2a9e5ad46840e5e36156b75424ac75c0eab2ef041557dca34cf3f56554d0528&)
 
+### Exo 10 :
+**Question :** Tâche où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
+![ex10](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=664641a0&is=6644f020&hm=e8163b9bb9d0258dc3ca7ca9174a6c46b7e91bfc66d6a110c083c62ed2081ec7&)
+
+### Exo 11 :
+**Question :** Tâche où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
+
+![ex11](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=664641a0&is=6644f020&hm=e8163b9bb9d0258dc3ca7ca9174a6c46b7e91bfc66d6a110c083c62ed2081ec7&)
+
+
+### Exo 12:
+**Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
+![ex11](https://cdn.discordapp.com/attachments/1233126790113923132/1240354447809581107/ex11.png?ex=66464199&is=6644f019&hm=66ceff7d2c00ef0ca561e2010c985231533a6cb8396211f9cc227aa25bc57dc7&)
+
+
+### Exo 13:
+**Question :** Le 25 novembre 2020, un Twittos a partagé cette photo. Il représentait un avion militaire survolant un lieu dont personne ne connaît la localisation.
+Votre tâche est de divulguer cet emplacement.
+![image](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/209ce522-d477-4465-800e-8687ec36efa7)
