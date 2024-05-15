@@ -50,12 +50,12 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ![ex6](https://cdn.discordapp.com/attachments/1233126790113923132/1239677895148965899/boolean-300x236.png?ex=6643cb82&is=66427a02&hm=e2a9e5ad46840e5e36156b75424ac75c0eab2ef041557dca34cf3f56554d0528&)
 
 ### Exo 10 :
-**Question :** Tâche où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
+**Question :** Où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
 
 ![ex10](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=664641a0&is=6644f020&hm=e8163b9bb9d0258dc3ca7ca9174a6c46b7e91bfc66d6a110c083c62ed2081ec7&)
 
 ### Exo 11 :
-**Question :** Tâche où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
+**Question :** Où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
 
 ![ex11](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=664641a0&is=6644f020&hm=e8163b9bb9d0258dc3ca7ca9174a6c46b7e91bfc66d6a110c083c62ed2081ec7&)
 
