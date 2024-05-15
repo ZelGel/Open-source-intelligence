@@ -22,7 +22,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 4 :
 **Question :** Quelle est la troisième lettre du mois qui est écrit sur l’affiche située en haut à droite de l'image ?
 
-![ex4](https://cdn.discordapp.com/attachments/1233126790113923132/1237532412800667790/osintexercise007.png?ex=66433d9f&is=6641ec1f&hm=7fedd69846ebf3a0068072cdad33d410d55dc74dfcf08d3345680df3dc3d38fd&)
+![image](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/0a3282a3-941b-4b5a-ab59-4da359e3204f)
 
 ### Exo 5 :
 **Question :** Les coordonnées exactes de cet endroit, soustraites de 10.57180493, 21.67484178, mènent à un lieu que vous connaissez bien. Quelle est la première lettre de ce lieu ?
