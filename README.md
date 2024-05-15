@@ -54,19 +54,13 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 
 ![ex10](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=664641a0&is=6644f020&hm=e8163b9bb9d0258dc3ca7ca9174a6c46b7e91bfc66d6a110c083c62ed2081ec7&)
 
-### Exo 11 :
-**Question :** Où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
-
-![ex11](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=664641a0&is=6644f020&hm=e8163b9bb9d0258dc3ca7ca9174a6c46b7e91bfc66d6a110c083c62ed2081ec7&)
-
-
-### Exo 12:
+### Exo 11:
 **Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
 
 ![ex11](https://cdn.discordapp.com/attachments/1233126790113923132/1240354447809581107/ex11.png?ex=66464199&is=6644f019&hm=66ceff7d2c00ef0ca561e2010c985231533a6cb8396211f9cc227aa25bc57dc7&)
 
 
-### Exo 13:
+### Exo 12:
 **Question :** Le 25 novembre 2020, un Twittos a partagé cette photo. Il représentait un avion militaire survolant un lieu dont personne ne connaît la localisation.
 Votre tâche est de divulguer cet emplacement.
 
