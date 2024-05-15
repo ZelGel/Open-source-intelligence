@@ -50,6 +50,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
   <summary>Cliquez ici pour un indice</summary>
   CarNET
 </details>
+
 ![exo_bonus](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/1f450024-6722-4684-8a67-58e771bfeba8)
 
 ### Exo 10 :
