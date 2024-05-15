@@ -47,6 +47,9 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 9 :
 **Question :** Certaines personnes affirment que Boolean est décédé entre 2014 et 2017. Mais je suis sûr qu'il est mort une autre année. Quand ?
 
+![exo_bonus](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/1f450024-6722-4684-8a67-58e771bfeba8)
+
+
 ![ex6](https://cdn.discordapp.com/attachments/1233126790113923132/1239677895148965899/boolean-300x236.png?ex=6643cb82&is=66427a02&hm=e2a9e5ad46840e5e36156b75424ac75c0eab2ef041557dca34cf3f56554d0528&)
 
 ### Exo 10 :
