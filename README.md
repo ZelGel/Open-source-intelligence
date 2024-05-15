@@ -48,7 +48,6 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 **Question :** 12 ans avant la prise de cette photo, à l'endroit où elle a été capturée, se trouvait une voiture de couleur argent avec une plaque d'immatriculation jaune. Quel était le modèle exact, la génération, et l'année de production de cette voiture ?
 <details>
   <summary> indice ?</summary>
-  CarNET
   fotoforensics
 </details>
 
