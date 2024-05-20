@@ -35,16 +35,16 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 7 : 
 **Question :** Quelque part dans ce bas monde dans un désert à proximité du lieu considéré comme l'endroit où se trouve la plus grande collection d'avions militaires se trouve une région dont le nom se finit par 'it'. Comment s'appelle cette région ?
 
-### Exo 7 :
+### Exo 8 :
 **Question :** Dans le PDF suivant, il y a un mot caché. Quel est ce mot ?
 
 [le pdf est ici](https://cdn.discordapp.com/attachments/1233126790113923132/1239697199236120716/L_Histoire_de_Moustache_Longue.pdf?ex=6643dd7c&is=66428bfc&hm=5f213d4570f7ae9f424d89d10a484004291de5c316c5cc188540fd78ba845e12&)
 
-### Exo 8 :
+### Exo 9 :
 **Question :** Trouvez l'exo 8. Quelle est la réponse ?
 
 # Medium ~ Hard
-### Exo 9 :
+### Exo 10 :
 **Question :** 12 ans avant la prise de cette photo, à l'endroit où elle a été capturée, se trouvait une voiture de couleur argent avec une plaque d'immatriculation jaune. Quel était le modèle exact, la génération, et l'année de production de cette voiture ?
 
 ![exo_bonus](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/1f450024-6722-4684-8a67-58e771bfeba8)
@@ -53,13 +53,8 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
   fotoforensics
 </details>
 
-### Exo 10 :
+### Exo 11 :
 **Question :** Question : Quel à été le capital de départ (en francs) de la Société Louis Vuitton, le 23 mars 1998 ?
-
-## Exo 11 :
-**Question :** Certaines personnes affirment que Boolean est décédé entre 2014 et 2017. Mais je suis sûr qu'il est mort une autre année. Quand ?
-
-![ex10](https://cdn.discordapp.com/attachments/1233126790113923132/1239677895148965899/boolean-300x236.png?ex=6643cb82&is=66427a02&hm=e2a9e5ad46840e5e36156b75424ac75c0eab2ef041557dca34cf3f56554d0528&)
 
 ### Exo 12 :
 **Question :** Où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
