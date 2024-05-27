@@ -67,7 +67,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ![ex12](https://cdn.discordapp.com/attachments/1233126790113923132/1240354447809581107/ex11.png?ex=66464199&is=6644f019&hm=66ceff7d2c00ef0ca561e2010c985231533a6cb8396211f9cc227aa25bc57dc7&)
 <details>
   <summary> indice ?</summary>
-  tineye
+  tineye & yandex
 </details>
 
 ### Exo 14:
