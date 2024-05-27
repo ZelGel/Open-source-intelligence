@@ -64,7 +64,8 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 13:
 **Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
 
-![ex13](https://cdn.discordapp.com/attachments/1233126790113923132/1240354447809581107/ex11.png?ex=66464199&is=6644f019&hm=66ceff7d2c00ef0ca561e2010c985231533a6cb8396211f9cc227aa25bc57dc7&)
+
+![ex13](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/194f25a7-e0af-4483-b6c0-e93543a1ac51)
 <details>
   <summary> indice ?</summary>
   tineye & yandex
