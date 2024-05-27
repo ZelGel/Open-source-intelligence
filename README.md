@@ -64,7 +64,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 13:
 **Question :** Où se trouve l'endroit où la femme est tomber?
 
-![ex13](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/3a4b56e2-9a83-40f4-a565-89574e20c6a7)
+https://github.com/ZelGel/Open-source-intelligence/assets/103312221/3a4b56e2-9a83-40f4-a565-89574e20c6a7
 
 
 
