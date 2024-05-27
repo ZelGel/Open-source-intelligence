@@ -57,14 +57,14 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 **Question :** Question : Quel à été le capital de départ (en francs) de la Société Louis Vuitton, le 23 mars 1998 ?
 
 ### Exo 12 :
-**Question :** Où se situe le bâtiment et trouver une citation qui contient le mot “Carnival”
+**Question :** Où se situe ce bâtiment et trouver une citation qui contient le mot “Carnival”
 
-![ex11](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=664641a0&is=6644f020&hm=e8163b9bb9d0258dc3ca7ca9174a6c46b7e91bfc66d6a110c083c62ed2081ec7&)
+![ex12](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=665613a0&is=6654c220&hm=1faa7fc115497b88730c1da0faba6528d17b07d639e21f8a57b4273bffac7832&)
 
 ### Exo 13:
 **Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
 
-![ex12](https://cdn.discordapp.com/attachments/1233126790113923132/1240354447809581107/ex11.png?ex=66464199&is=6644f019&hm=66ceff7d2c00ef0ca561e2010c985231533a6cb8396211f9cc227aa25bc57dc7&)
+![ex13](https://cdn.discordapp.com/attachments/1233126790113923132/1240354447809581107/ex11.png?ex=66464199&is=6644f019&hm=66ceff7d2c00ef0ca561e2010c985231533a6cb8396211f9cc227aa25bc57dc7&)
 <details>
   <summary> indice ?</summary>
   tineye & yandex
