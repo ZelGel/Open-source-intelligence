@@ -64,17 +64,21 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 13:
 **Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
 
+![exo13,](https://www.youtube.com/watch?v=5iihkxAwYig)
 
-![ex13](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/194f25a7-e0af-4483-b6c0-e93543a1ac51)
+
+### Exo 14:
+**Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
+
+![ex14](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/194f25a7-e0af-4483-b6c0-e93543a1ac51)
 <details>
   <summary> indice ?</summary>
   tineye & yandex
 </details>
 
-### Exo 14:
+### Exo 15:
 **Question :** Le 25 novembre 2020, un Twittos a partagé cette photo. Il représentait un avion militaire survolant un lieu dont personne ne connaît la localisation.
 Votre tâche est de divulguer cet emplacement.
 
 ![image](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/209ce522-d477-4465-800e-8687ec36efa7)
-
 
