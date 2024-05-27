@@ -59,7 +59,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 12 :
 **Question :** Où se situe ce bâtiment et trouver une citation qui contient le mot “Carnival”
 
-![ex12](https://cdn.discordapp.com/attachments/1233126790113923132/1240354477865697380/exo10.png?ex=665613a0&is=6654c220&hm=1faa7fc115497b88730c1da0faba6528d17b07d639e21f8a57b4273bffac7832&)
+![exo12](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/6a4fcfb0-3f12-40bb-83ec-cea893e878b8)
 
 ### Exo 13:
 **Question :** Sur la photo, il y a quatre personnes, votre tâche est de tous les identifier.
