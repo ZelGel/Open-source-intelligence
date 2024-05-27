@@ -27,7 +27,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 5 :
 **Question :** Les coordonnées exactes de cet endroit, soustraites de 10.57180493, 21.67484178, mènent à un lieu que vous connaissez bien. Quelle est la première lettre de ce lieu ?
 
-![ex5](https://cdn.discordapp.com/attachments/1233126790113923132/1237335847464865884/image.png?ex=66432f4e&is=6641ddce&hm=5fb2af362c844c4f3f99d29a09d888d6aea6dbe2796f20bab9a58f422a162adb&)
+![exo5](https://github.com/ZelGel/Open-source-intelligence/assets/103312221/32ee6953-79d4-4bb8-b0f4-b08f325984a1)
 
 ### Exo 6 :
 **Question :** Cette adresse, maniexode6@gmail.com, a été impliquée dans des fuites de mots de passe principalement sur trois plateformes. Comment s'appelle la plateforme qui se termine par 'es' ?
