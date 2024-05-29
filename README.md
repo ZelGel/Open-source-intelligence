@@ -38,7 +38,8 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 ### Exo 8 :
 **Question :** Dans le PDF suivant, il y a un mot caché. Quel est ce mot ?
 
-[le pdf est ici](https://cdn.discordapp.com/attachments/1233126790113923132/1239697199236120716/L_Histoire_de_Moustache_Longue.pdf?ex=6655a9bc&is=6654583c&hm=668d634f026540e445c17eb38214f961c839d67f91bb7f0bda80931282977e1c&)
+[L_Histoire_de_Moustache_Longue.pdf](https://github.com/ZelGel/Open-source-intelligence/files/15480594/L_Histoire_de_Moustache_Longue.pdf)
+
 
 ### Exo 9 :
 **Question :** Trouvez l'exo 9. Quelle est la réponse ?
