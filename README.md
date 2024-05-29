@@ -55,7 +55,7 @@ Ce workshop vise à vous initier aux techniques de base de l'OSINT à travers un
 </details>
 
 ### Exo 11 :
-**Question :** Question : Quel à été le capital de départ (en francs) de la Société Louis Vuitton, le 23 mars 1998 ?
+**Question :** Quel à été le capital de départ (en francs) de la Société Louis Vuitton, le 23 mars 1998 ?
 
 ### Exo 12 :
 **Question :** Où se situe ce bâtiment et trouver une citation qui contient le mot “Carnival”
